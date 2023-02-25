@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WONkH7JhGKNSYlOP6NZRtgym+2AK+EmKEN/svHDPSQ4lCSCf6+nAVHM4pUfSvdSU9AKdqOkZhKIkHvkLdQogxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aditya_mishra\\Desktop\\Semicolons\\CloudWalkers-Demo\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\aditya_mishra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
